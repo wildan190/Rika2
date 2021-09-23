@@ -49,7 +49,7 @@ if(isset($_POST['update'])){
     
     if($result){
         
-        header('location:events.php');
+        header('location:fasilitas.php');
     }
     else
     {

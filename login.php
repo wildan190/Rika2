@@ -32,7 +32,7 @@ session_start();
 					{
 
 						$_SESSION['user_id'] = $user_data['user_id'];
-						header("Location: tambah_siswa.php");
+						header("Location: dashboard.php");
 						die;
 					}
 				}
