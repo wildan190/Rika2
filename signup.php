@@ -38,7 +38,7 @@ session_start();
 
 <html lang="en" dir="ltr">
   <head>
-	<title>Signup SIA</title>
+	<title>Signup As Admin</title>
 	<link rel="shortcut icon" type="image/x-icon" href="favico.ico" />
     <meta charset="utf-8">
   </head>
