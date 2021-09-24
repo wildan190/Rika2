@@ -92,7 +92,7 @@
                         <i class="fa fa-info fa-5x"></i><br />
                         Tentang Informasi <br>Sekolah
                     </a>
-                    <a href="#" class="btn btn-sq-lg btn-danger">
+                    <a href="signup.php" class="btn btn-sq-lg btn-danger">
                         <i class="fa fa-user fa-5x"></i><br />
                         Tambah Admin <br>Baru
                     </a>
@@ -100,6 +100,37 @@
             </div>
         </div>
     </div>
+
+    <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+<div class="container d-md-flex py-4">
+
+  <div class="me-md-auto text-center text-md-start">
+    <div class="copyright">
+      &copy; Copyright <strong><span>Hogwarts</span></strong>. All Rights Reserved
+    </div> 
+  </div>
+  <div class="social-links text-center text-md-right pt-3 pt-md-0">
+    <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+    <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+    <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+    <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+    <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+  </div>
+</div>
+<div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-6 footer-contact">
+        <h3>Hogwarts</h3>
+        <p>
+        Jl. Jend. Sudirman No.Kav 54-55, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190<br><br>
+          <strong>Phone:</strong> +62 85895555<br>
+          <strong>Email:</strong> hogwardsacademy@hogwarts.edu.ac.id<br>
+        </p>
+      </div>
+    </div>
+</footer><!-- End Footer -->
     
 </body>
 </html>

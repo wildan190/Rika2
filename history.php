@@ -51,7 +51,7 @@
           <li><a href="index.php">Beranda</a></li>
           <li><a class="active" href="about.php">Tentang</a></li>
           <li><a href="trainers.php">Pendidik</a></li>
-          <li><a href="events.php">Acara</a></li>
+          <li><a href="facilities/fasilitas.php">Fasilitas</a></li>
           <li><a href="pricing.php">Pricing</a></li>
 
           <li class="dropdown"><a href="#"><span>Lainnya</span> <i class="bi bi-chevron-down"></i></a>
@@ -146,49 +146,12 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
 
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Hogwarts</h3>
-            <p>
-            Jl. Jend. Sudirman No.Kav 54-55, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190<br><br>
-              <strong>Phone:</strong> +62 85895555<br>
-              <strong>Email:</strong> hogwardsacademy@hogwarts.edu.ac.id<br>
-            </p>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Let's subscribe to our news to get a variety of interesting information.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
     <div class="container d-md-flex py-4">
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
           &copy; Copyright <strong><span>Hogwarts</span></strong>. All Rights Reserved
-        </div>
-        
+        </div> 
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -198,6 +161,17 @@
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
     </div>
+    <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>Hogwarts</h3>
+            <p>
+            Jl. Jend. Sudirman No.Kav 54-55, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190<br><br>
+              <strong>Phone:</strong> +62 85895555<br>
+              <strong>Email:</strong> hogwardsacademy@hogwarts.edu.ac.id<br>
+            </p>
+          </div>
+        </div>
   </footer><!-- End Footer -->
 
   <div id="preloader"></div>

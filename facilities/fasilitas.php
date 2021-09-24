@@ -54,19 +54,19 @@ include 'includes/data.php';
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a href="index.php">Beranda</a></li>
-          <li><a href="about.php">Tentang</a></li>
-          <li><a href="trainers.php">Pendidik</a></li>
+          <li><a href="../index.php">Beranda</a></li>
+          <li><a href="../about.php">Tentang</a></li>
+          <li><a href="../trainers.php">Pendidik</a></li>
           <li><a class="active" href="events.php">fasilitas</a></li>
           <li><a href="pricing.php">Pricing</a></li>
 
           <li class="dropdown"><a href="#"><span>lainnya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="history.php">History</a></li>
+              <li><a href="../history.php">History</a></li>
               </li>
-              <li><a href="vnm.php">Visi & Misi</a></li>
-              <li><a href="login.php">Siswa</a></li>
-              <li><a href="alumni.php">Alumni</a></li>
+              <li><a href="../vnm.php">Visi & Misi</a></li>
+              <li><a href="../login.php">Siswa</a></li>
+              <li><a href="../alumni.php">Alumni</a></li>
             </ul>
           </li>
           </li>
