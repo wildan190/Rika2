@@ -131,7 +131,7 @@ if(mysqli_num_rows($result) > 0){
             <td><?=$keterangan; ?></td>
             
             <td><a href="update.php?update=<?php echo $id ?>" class="btn btn-success btn-sm" role="button">Update</a>
-            <a href="fasilitas.php?delete=<?php echo $id ?>" class="btn btn-danger btn-sm" id="delete" role="button">Delete</a></td>
+            <!--<a href="fasilitas.php?delete=<?php echo $id ?>" class="btn btn-danger btn-sm" id="delete" role="button">Delete</a></td>-->
         </tr>
 <?php
     }

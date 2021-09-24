@@ -3,7 +3,13 @@
 include 'includes/db.php';
 
 ?>
-
+<head>
+    <title>Pengajar</title>
+    <!-- Favicons -->
+    <link href="../assets/img/favicon.png" rel="icon">
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+</head>
+<body>
 <div class="container">
     <div class="jumbotron text-center">
         <h2>Teacher Data</h2>
@@ -110,6 +116,6 @@ if(mysqli_num_rows($result) > 0){
 
     });
 </script>
-
+</body>
 
 
