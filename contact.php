@@ -52,7 +52,6 @@
           <li><a href="about.php">Tentang</a></li>
           <li><a href="trainers.php">Pendidik</a></li>
           <li><a href="events.php">Acara</a></li>
-          <li><a href="pricing.php">Pricing</a></li>
 
           <li class="dropdown"><a href="#"><span>lainnya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -166,26 +165,7 @@
               <strong>Email:</strong> hogwardsacademy@hogwarts.edu.ac.id<br>
             </p>
           </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Let's subscribe to our news to get a variety of interesting information.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-
+          
         </div>
       </div>
     </div>

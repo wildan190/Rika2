@@ -96,7 +96,7 @@ if(mysqli_num_rows($result) > 0){
 </div>
 <br />
 <center>
-<button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="../index.php"</a>Kembali</button>
+<button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="../dashboard.php"</a>Kembali</button>
 </center>
 
 <script>

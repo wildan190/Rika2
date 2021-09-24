@@ -293,7 +293,7 @@
 	
 	<br />
 	<center>
-	<button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="index.php"</a>Kembali</button>
+	<button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="dashboard.php"</a>Kembali</button>
 	<button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="./grade/grade2.php"</a>Grade 2</button>
 	<button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="./grade/grade3.php"</a>Grade 3</button>
 	<button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="./grade/grade4.php"</a>Grade 4</button>

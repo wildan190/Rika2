@@ -39,9 +39,9 @@ if(isset($_POST['insert']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Insert Data</title>
-    <!-- Favicons -->
     <link href="../assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    
 </head>
 <body>
 
@@ -80,6 +80,7 @@ if(isset($_POST['insert']))
 </div>
 <div class="form-group">
     <input type="submit" class="btn btn-success" value="Insert data" name="insert">
+    <button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="../dashboard.php"</a>Kembali</button>
 </div>
 </form>
 </div>

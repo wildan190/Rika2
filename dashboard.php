@@ -80,17 +80,13 @@
                         <i class="fa fa-table fa-5x"></i><br />
                         Pengaturan Data <br>Siswa
                     </a>
-                    <a href="#" class="btn btn-sq-lg btn-success">
+                    <a href="facilities/insert.php" class="btn btn-sq-lg btn-success">
                         <i class="fa fa-home fa-5x"></i><br />
                         Data Fasilitas <br>Sekolah
                     </a>
-                    <a href="#" class="btn btn-sq-lg btn-info">
+                    <a href="teacher/teacher.php" class="btn btn-sq-lg btn-info">
                         <i class="fa fa-user fa-5x"></i><br />
                         Tambah Data <br>Guru
-                    </a>
-                    <a href="#" class="btn btn-sq-lg btn-warning">
-                        <i class="fa fa-info fa-5x"></i><br />
-                        Tentang Informasi <br>Sekolah
                     </a>
                     <a href="signup.php" class="btn btn-sq-lg btn-danger">
                         <i class="fa fa-user fa-5x"></i><br />
@@ -121,7 +117,7 @@
 </div>
 <div class="container">
     <div class="row">
-      <div class="col-lg-3 col-md-6 footer-contact">
+      <div class="col-lg-5 col-md-6 footer-contact">
         <h3>Hogwarts</h3>
         <p>
         Jl. Jend. Sudirman No.Kav 54-55, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190<br><br>

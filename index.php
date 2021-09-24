@@ -168,7 +168,7 @@
               <li><a href="history.php">History</a></li>
               </li>
               <li><a href="vnm.php">Visi & Misi</a></li>
-              <li><a href="login.php">Siswa</a></li>
+              <li><a href="studentView.php">Siswa</a></li>
               
             </ul>
           </li>
@@ -305,7 +305,7 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-contact">
+          <div class="col-lg-5 col-md-6 footer-contact">
             <h3>Hogwarts</h3>
             <p>
             Jl. Jend. Sudirman No.Kav 54-55, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190<br><br>

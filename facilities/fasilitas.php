@@ -92,8 +92,6 @@ include 'includes/data.php';
 
     <!-- Main of Content -->
     
-    
-    <a href="insert.php" role="button" class="btn btn-primary pull-right">INSERT DATA</a>
     <br>
     <br>
     <table class="table table-hover table-striped">
@@ -168,9 +166,6 @@ if(mysqli_num_rows($result) > 0){
     </table>
 </div>
 <br />
-<center>
-<button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="../index.php"</a>Kembali</button>
-</center>
 
 <script>
     $(document).ready(function(){

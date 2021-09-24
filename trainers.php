@@ -53,7 +53,6 @@
           <li><a href="about.php">Tentang</a></li>
           <li><a class="active" href="trainers.php">Pendidik</a></li>
           <li><a href="facilities/fasilitas.php">Fasilitas</a></li>
-          <li><a href="pricing.php">Pricing</a></li>
 
           <li class="dropdown"><a href="#"><span>lainnya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -145,34 +144,10 @@
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <img src="assets/img/trainers/Minerva.jpg" class="img-fluid" alt="">
-              <div class="member-content">
-                <h4>Minerva McGonegal</h4>
-                <span>Guru BK</span>
-                <p>
-                  Without education, you are not going anywhere in this world.
-                </p>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
         </div>
 
       </div>
     </section><!-- End Trainers Section -->
-    <center>
-      <button type = "logout" class="btn btn-success"><a style = "text-decoration:none; color:white;" href="teacher/teacher.php"</a>View List</button>
-    </center>
-    <br />
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
@@ -182,7 +157,7 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-contact">
+          <div class="col-lg-5 col-md-6 footer-contact">
             <h3>Hogwarts</h3>
             <p>
             Jl. Jend. Sudirman No.Kav 54-55, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190<br><br>
@@ -190,26 +165,7 @@
               <strong>Email:</strong> hogwardsacademy@hogwarts.edu.ac.id<br>
             </p>
           </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Let's subscribe to our news to get a variety of interesting information.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-
+          
         </div>
       </div>
     </div>
