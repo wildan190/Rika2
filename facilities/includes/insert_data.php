@@ -15,7 +15,7 @@ if(isset($_POST['insert'])){
     
     if($result){
         
-        header('location:../events.php');
+        header('location:fasilitas.php');
     }
     
 }

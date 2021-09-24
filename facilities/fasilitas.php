@@ -84,9 +84,9 @@ include 'includes/data.php';
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs" data-aos="fade-in">
-      <div class="container d-flex align-items-center">
-        <h2>Events</h2>
-        
+      <div class="container">
+        <h2>Fasilitas</h2>
+        <p>"Fasilitas di sekolah ini cukup memadai untuk membantu kegiatan belajar seluruh siswa."</p>
       </div>
     </div><!-- End Breadcrumbs -->
 
@@ -131,7 +131,7 @@ if(mysqli_num_rows($result) > 0){
             <td><?=$keterangan; ?></td>
             
             <td><a href="update.php?update=<?php echo $id ?>" class="btn btn-success btn-sm" role="button">Update</a>
-            <a href="events.php?delete=<?php echo $id ?>" class="btn btn-danger btn-sm" id="delete" role="button">Delete</a></td>
+            <a href="fasilitas.php?delete=<?php echo $id ?>" class="btn btn-danger btn-sm" id="delete" role="button">Delete</a></td>
         </tr>
 <?php
     }
@@ -147,10 +147,10 @@ if(mysqli_num_rows($result) > 0){
 
         while($row = mysqli_fetch_array($query1))
         {
-             $img= $row['image'];
+             $image= $row['image'];
         }
 
-            unlink("images/".$img);
+            unlink('images/'.$image);
 
         $query = "DELETE FROM facilities WHERE id = $id";
         
@@ -158,7 +158,7 @@ if(mysqli_num_rows($result) > 0){
         
         if($result){
 
-            header('location:../index.php');
+            header('location:fasilitas.php');
             
         }
     }    
