@@ -3,5 +3,6 @@
     "window.zoomLevel":0.5,
     "workbench.colorTheme": "Electronic Moonlight",
     "workbench.iconTheme":"material-icon-theme",
+    "terminal.integrated.fontSize": 17,
     
 }
