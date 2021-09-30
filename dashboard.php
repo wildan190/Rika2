@@ -96,7 +96,10 @@
             </div>
         </div>
     </div>
-
+    
+    <br />
+    <center><button type = "logout" class="btn btn-danger"><a style = "text-decoration:none; color:white;" href="index.php"</a>Logout</button></center>
+    <br />
     <!-- ======= Footer ======= -->
   <footer id="footer">
 
