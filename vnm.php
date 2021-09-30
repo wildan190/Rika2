@@ -59,7 +59,6 @@
               </li>
               <li><a href="vnm.php">Visi & Misi</a></li>
               <li><a href="tambah_siswa.php">Siswa</a></li>
-              <li><a href="alumni.php">Alumni</a></li>
             </ul>
           </li>
           <li><a href="contact.php">Kontak</a></li>
@@ -68,7 +67,7 @@
       </nav><!-- .navbar -->
 
       <a href="regist.php" class="get-started-btn">Daftar Sekarang</a>
-
+      <a href="login.php" class="get-started-btn">Login</a>
     </div>
   </header><!-- End Header -->
 

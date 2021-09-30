@@ -52,7 +52,6 @@
           <li><a class="active" href="about.php">Tentang</a></li>
           <li><a href="trainers.php">Pendidik</a></li>
           <li><a href="facilities/fasilitas.php">Fasilitas</a></li>
-          <li><a href="pricing.php">Pricing</a></li>
 
           <li class="dropdown"><a href="#"><span>Lainnya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -60,7 +59,6 @@
               </li>
               <li><a href="vnm.php">Visi & Misi</a></li>
               <li><a href="tambah_siswa.php">Siswa</a></li>
-              <li><a href="alumni.php">Alumni</a></li>
             </ul>
           </li>
           <li><a href="contact.php">Kontak</a></li>
@@ -69,7 +67,7 @@
       </nav><!-- .navbar -->
 
       <a href="regist.php" class="get-started-btn">Daftar Sekarang</a>
-
+      <a href="login.php" class="get-started-btn">Login</a>
     </div>
   </header><!-- End Header -->
 

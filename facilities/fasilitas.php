@@ -58,7 +58,6 @@ include 'includes/data.php';
           <li><a href="../about.php">Tentang</a></li>
           <li><a href="../trainers.php">Pendidik</a></li>
           <li><a class="active" href="events.php">fasilitas</a></li>
-          <li><a href="pricing.php">Pricing</a></li>
 
           <li class="dropdown"><a href="#"><span>lainnya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -66,7 +65,6 @@ include 'includes/data.php';
               </li>
               <li><a href="../vnm.php">Visi & Misi</a></li>
               <li><a href="../login.php">Siswa</a></li>
-              <li><a href="../alumni.php">Alumni</a></li>
             </ul>
           </li>
           </li>
@@ -76,7 +74,7 @@ include 'includes/data.php';
       </nav><!-- .navbar -->
 
       <a href="../regist.php" class="get-started-btn">Daftar Sekarang</a>
-
+      <a href="../login.php" class="get-started-btn">Login</a>
     </div>
   </header><!-- End Header -->
 
