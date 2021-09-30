@@ -58,7 +58,7 @@
               <li><a href="history.php">History</a></li>
               </li>
               <li><a href="vnm.php">Visi & Misi</a></li>
-              <li><a href="tambah_siswa.php">Siswa</a></li>
+              <li><a href="studentView.php">Siswa</a></li>
             </ul>
           </li>
           <li><a href="contact.php">Kontak</a></li>

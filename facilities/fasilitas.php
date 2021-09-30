@@ -64,7 +64,7 @@ include 'includes/data.php';
               <li><a href="../history.php">History</a></li>
               </li>
               <li><a href="../vnm.php">Visi & Misi</a></li>
-              <li><a href="../login.php">Siswa</a></li>
+              <li><a href="../studentView.php">Siswa</a></li>
             </ul>
           </li>
           </li>
