@@ -57,7 +57,7 @@ include 'includes/data.php';
           <li><a href="../index.php">Beranda</a></li>
           <li><a href="../about.php">Tentang</a></li>
           <li><a href="../trainers.php">Pendidik</a></li>
-          <li><a class="active" href="events.php">fasilitas</a></li>
+          <li><a class="active" href="fasilitas.php">fasilitas</a></li>
 
           <li class="dropdown"><a href="#"><span>lainnya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
